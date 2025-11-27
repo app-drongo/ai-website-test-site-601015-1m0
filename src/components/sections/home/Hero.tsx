@@ -10,7 +10,7 @@ import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 const DEFAULT_HERO = {
   title: 'Test Your Layouts Like a Pro',
   subtitle:
-    'A minimal testing environment for developers and designer to preview, iterate, and perfect their web components with ease.',
+    'A minimal testing environment for developers and designerss to preview, iterate, and perfect their web components with ease.',
   description:
     'Skip the complexity. Focus on what matters. Our streamlined testing platform gives you the tools to validate your designs quickly and efficiently.',
   ctaText: 'Start Testing',
