@@ -15,7 +15,7 @@ const DEFAULT_HERO = {
     'Skip the complexity. Focus on what matters. Our streamlined testing platform gives you the tools to validate your designs quickly and efficiently.',
   ctaText: 'Start Testing',
   ctaHref: '/dashboard',
-  secondaryCtaText: 'View Docs',
+  secondaryCtaText: 'View Docss',
   secondaryCtaHref: '/docs',
   backgroundImage:
     'https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072&auto=format&fit=crop',
