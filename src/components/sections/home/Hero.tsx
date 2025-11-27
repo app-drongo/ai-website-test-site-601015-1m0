@@ -23,7 +23,7 @@ const DEFAULT_HERO = {
   features: [
     { icon: 'Code', text: 'Clean Code Testing' },
     { icon: 'Zap', text: 'Lightning Fast' },
-    { icon: 'Shield', text: 'Reliable Results' },
+    { icon: 'Shield', text: 'Reliable Resultss' },
   ],
 } as const;
 
