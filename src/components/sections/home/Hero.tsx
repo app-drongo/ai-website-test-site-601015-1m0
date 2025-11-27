@@ -8,7 +8,7 @@ import { useState, useEffect } from 'react';
 import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 
 const DEFAULT_HERO = {
-  title: 'Test Your Layouts Like a Pro',
+  title: 'Test Your Layouts Like a Pros',
   subtitle:
     'A minimal testing environment for developers and designerss to preview, iterate, and perfect their web components with ease.',
   description:
